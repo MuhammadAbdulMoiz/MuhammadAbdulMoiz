@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadabdulmoiz&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadabdulmoiz" /> </p>
 
-- 🔭 I’m currently working on [nextwork-web-project](https://github.com/MuhammadAbdulMoiz/nextwork-web-project)
-
 - 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **moiza354@gmail.com**
