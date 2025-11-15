@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdul Moiz</h1>
-<h3 align="center">I am an aspiring Software Developer with a strong passion for software development and technology. I enjoy solving problems through code and am always eager to learn about new tools, technologies, and industry trends. I'm particularly interested in areas like AI, DevOps, and building efficient, real-world solutions</h3>
+<h3 align="center">I am an aspiring Software Developer with a strong passion for software development and technology. I enjoy solving problems through code and am always eager to learn about new tools, technologies, and industry trends. I'm particularly interested in areas like fullStack applications, DevOps, and building efficient, real-world solutions</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadabdulmoiz&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadabdulmoiz" /> </p>
 
