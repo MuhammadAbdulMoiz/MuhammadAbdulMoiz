@@ -1,47 +1,88 @@
-# Muhammad Abdul Moiz
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+  <img src="assets/header-light.svg" width="100%" alt="Muhammad Abdul Moiz. Software Engineer, CAD and C++, Full-Stack" />
+</picture>
 
-**Software Engineer · CAD & C++ · Full-Stack**
+<p align="center">
+  <a href="mailto:moiza354@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/MuhammadAbdulMoiz?tab=repositories">Repositories</a>
+  &nbsp;·&nbsp;
+  <a href="https://payprecision2.vercel.app">Live demo</a>
+</p>
 
-[Email](mailto:moiza354@gmail.com) · [GitHub](https://github.com/MuhammadAbdulMoiz) · [Projects](https://github.com/MuhammadAbdulMoiz?tab=repositories)
+<br />
 
----
+I'm a software engineer building **CAD software in C++**: the geometry, tools and workflows engineers use to design real parts. Outside of CAD I build full-stack products, from backend services in Go, .NET and Node.js to React front ends.
 
-### About
+I like work that sits close to the metal and close to the user at the same time: fast, correct core code with an interface people actually enjoy using.
 
-I'm a software engineer working in **C++ on CAD software**, building the geometry and tooling behind design applications. Outside of CAD I build full-stack products, from backend services and APIs to the web interfaces on top of them.
+<br />
 
-- **CAD & C++:** desktop CAD development and AI-assisted CAD tooling
-- **Backend:** Go (Gin, gRPC, GraphQL), C# / .NET 9, Node.js / Express
-- **Frontend:** React, Vite, Tailwind CSS
-- **Data & infra:** PostgreSQL, SQL Server, MongoDB, Docker, AWS
+#### Currently
 
-### Tech
+- Engineering CAD features in **C++**
+- Building **[ai-cad](https://github.com/MuhammadAbdulMoiz/ai-cad)**, AI-assisted tooling for CAD workflows
+- Exploring microservices with **Go, gRPC and GraphQL**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+<br />
 
-### Selected projects
+#### Toolbox
 
-| Project | Description | Stack |
-|:--|:--|:--|
-| [ai-cad](https://github.com/MuhammadAbdulMoiz/ai-cad) | AI-assisted CAD tooling | TypeScript |
-| [PayPrecision](https://github.com/MuhammadAbdulMoiz/payprecision) · [demo](https://payprecision2.vercel.app) | Salary calculator with themes, overtime and leave logic, and PDF invoices | React, Vite, Tailwind |
-| [go-micro](https://github.com/MuhammadAbdulMoiz/go-micro) | Microservices with GraphQL, gRPC, Postgres and Elasticsearch | Go, Docker |
-| [JWT Authentication with .NET](https://github.com/MuhammadAbdulMoiz/JWT-Authentication-with-.NET) | Complete JWT auth flows with EF Core and code-first migrations | C#, .NET 9 |
-| [go-secure-api](https://github.com/MuhammadAbdulMoiz/go-secure-api) | Modular JWT-secured API with middleware and password hashing | Go, Gin, MongoDB |
-| [Calculator](https://github.com/MuhammadAbdulMoiz/Calculator) | Scientific calculator with number-system conversions | Java |
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,go,ts,js,python&theme=dark" height="40" alt="Languages: C++, C#, Go, TypeScript, JavaScript, Python" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,tailwind&theme=dark" height="40" alt="Frameworks: .NET, Node.js, React, Tailwind" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,aws,git&theme=dark" height="40" alt="Data and infra: PostgreSQL, MongoDB, Docker, AWS, Git" />
+</p>
 
-### Contact
+<br />
 
-Open to collaborations and interesting problems. Reach me at **moiza354@gmail.com**.
+#### Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/MuhammadAbdulMoiz/ai-cad">ai-cad</a></b><br />
+      <sub>AI-assisted tooling for CAD workflows.</sub><br /><br />
+      <code>TypeScript</code>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/MuhammadAbdulMoiz/payprecision">PayPrecision</a></b> &nbsp;<sub><a href="https://payprecision2.vercel.app">live ↗</a></sub><br />
+      <sub>Salary calculator with overtime and leave logic, dark and light themes, and PDF invoices.</sub><br /><br />
+      <code>React</code> <code>Vite</code> <code>Tailwind</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/MuhammadAbdulMoiz/go-micro">go-micro</a></b><br />
+      <sub>Microservices system with GraphQL, gRPC, Postgres and Elasticsearch.</sub><br /><br />
+      <code>Go</code> <code>gRPC</code> <code>Docker</code>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/MuhammadAbdulMoiz/JWT-Authentication-with-.NET">JWT Auth with .NET</a></b><br />
+      <sub>Complete JWT authentication flows with EF Core and code-first migrations.</sub><br /><br />
+      <code>C#</code> <code>.NET 9</code> <code>SQL Server</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/MuhammadAbdulMoiz/go-secure-api">go-secure-api</a></b><br />
+      <sub>Modular JWT-secured API with middleware and password hashing.</sub><br /><br />
+      <code>Go</code> <code>Gin</code> <code>MongoDB</code>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/MuhammadAbdulMoiz/cloud-networking-vpc-lab">cloud-networking-vpc-lab</a></b><br />
+      <sub>AWS VPC with public and private subnets, NAT and EC2, plus diagrams.</sub><br /><br />
+      <code>AWS</code> <code>Bash</code>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<p align="center">
+  <sub>Open to collaborations and interesting problems. Say hi at <a href="mailto:moiza354@gmail.com">moiza354@gmail.com</a>.</sub>
+</p>
