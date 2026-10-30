@@ -1,35 +1,105 @@
-<h1 align="center">Hi 👋, I'm Muhammad Abdul Moiz</h1>
-<h3 align="center">Aspiring Software Developer · Full-Stack · DevOps & Cloud</h3>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadabdulmoiz&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadabdulmoiz" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1f2937&height=180&section=header&text=Muhammad%20Abdul%20Moiz&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DevOps%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=16" alt="Header" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Abdul+Moiz;Building+full-stack+web+applications;Learning+DevOps+%26+Cloud+on+AWS;Turning+problems+into+real-world+solutions" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="mailto:moiza354@gmail.com"><img src="https://img.shields.io/badge/Email-moiza354%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/MuhammadAbdulMoiz"><img src="https://img.shields.io/badge/GitHub-MuhammadAbdulMoiz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=muhammadabdulmoiz&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
+
+</div>
+
+---
 
 ## 🙋‍♂️ About Me
 
-I'm an aspiring Software Developer with a strong passion for software development and technology. I enjoy solving problems through code and I'm always eager to learn about new tools, technologies, and industry trends.
+I'm an aspiring **Software Developer** with a strong passion for software development and technology. I enjoy solving problems through code and I'm always eager to learn about new tools, technologies, and industry trends.
+
+```yaml
+name:        Muhammad Abdul Moiz
+role:        Aspiring Software Developer
+focus:       [Full-Stack Web Apps, DevOps, Cloud]
+learning:    [AWS, Docker, Jenkins, CI/CD]
+goal:        Build efficient, real-world solutions
+open_to:     Collaboration on full-stack & DevOps projects
+```
 
 - 💻 I build **full-stack web applications** with React, Next.js, Node.js, Express, MongoDB and MySQL
-- ☁️ I'm interested in **DevOps & Cloud**: AWS, Docker, Jenkins and CI/CD pipelines
-- 🌱 I'm currently learning **DevOps**, with hands-on labs like AWS VPC networking
-- 🎯 My goal is to build **efficient, real-world solutions** that people actually use
-- 🤝 I'm open to collaborating on full-stack and DevOps projects
-- 📫 How to reach me: **moiza354@gmail.com**
+- ☁️ I'm diving into **DevOps & Cloud**: AWS networking, containers and CI/CD pipelines
+- 🌱 Currently learning **DevOps** through hands-on labs like AWS VPC networking
+- 🤝 Open to collaborating on full-stack and DevOps projects
+- 📫 Reach me at **moiza354@gmail.com**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAbdulMoiz&show_icons=true&locale=en&layout=compact&card_width=1000&langs_count=6&theme=nord&hide_border=false" height="150" alt="Top Languages" />
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<h3 align="left">Recent Projects:</h3>
+## 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://github.com/MuhammadAbdulMoiz/nextwork-web-project" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAbdulMoiz&repo=nextwork-web-project&theme=nord&hide_border=false" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="140"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css&perline=10" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&perline=10" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express&perline=10" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=10" alt="Databases" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps &amp; Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git&perline=10" alt="DevOps and Cloud" /></td>
+  </tr>
+</table>
 
-<p align="left">
-  <a href="https://github.com/MuhammadAbdulMoiz/cloud-networking-vpc-lab" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAbdulMoiz&repo=cloud-networking-vpc-lab&theme=nord&hide_border=false" />
-  </a>
-</p>
+---
 
-<img src="https://raw.githubusercontent.com/MuhammadAbdulMoiz/MuhammadAbdulMoiz/output/snake.svg" alt="Snake animation" />
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/MuhammadAbdulMoiz/nextwork-web-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAbdulMoiz&repo=nextwork-web-project&theme=nord&hide_border=true" alt="nextwork-web-project" />
+</a>
+<a href="https://github.com/MuhammadAbdulMoiz/cloud-networking-vpc-lab">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAbdulMoiz&repo=cloud-networking-vpc-lab&theme=nord&hide_border=true" alt="cloud-networking-vpc-lab" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadAbdulMoiz&show_icons=true&theme=nord&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAbdulMoiz&layout=compact&langs_count=6&theme=nord&hide_border=true" height="165" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=MuhammadAbdulMoiz&theme=nord&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadAbdulMoiz/MuhammadAbdulMoiz/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadAbdulMoiz/MuhammadAbdulMoiz/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/MuhammadAbdulMoiz/MuhammadAbdulMoiz/output/snake.svg" alt="Snake eating my contributions" />
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0e75b6&height=100&section=footer" alt="Footer" />
+
+</div>
