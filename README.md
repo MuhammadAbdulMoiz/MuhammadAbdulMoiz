@@ -24,9 +24,9 @@ I'm a **CAD developer** writing **C++**: geometry, modelling tools and the workf
 ### Contribution skyline
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
-  <img src="profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D skyline of my GitHub contributions" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/skyline-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/skyline-light.svg" />
+  <img src="profile-3d-contrib/skyline-light.svg" width="100%" alt="3D skyline of my GitHub contributions" />
 </picture>
 
 <br />
